@@ -16,7 +16,7 @@ Behavioural psychologist who joined [[Projects/roster-league|The Roster]] believ
 
 - **Role:** Worked in Behavioural Systems at The Roster, designing user behaviours (notification timing, wording, engagement patterns) rather than matching algorithms.
 - **Affiliations:** [[Projects/roster-league|The Roster]]
-- **Relationships:** granddaughter of [[Characters/zeta|Zeta]]; friend of [[Characters/freya|Freya]]
+- **Relationships:** grandmother of [[Characters/zeta|Zeta]]; friend of [[Characters/freya|Freya]]
 
 ## History
 
@@ -28,6 +28,11 @@ Behavioural psychologist who joined [[Projects/roster-league|The Roster]] believ
 - Discovered the Archive on Sub-Level Seven ([[Locations/the-archive|The Archive]]) by accident — boxes of sentimental objects users surrendered during "account optimisation." Read a letter with no user ID, no score, just handwriting: *"I know the statistics say this won't last. I don't care. I choose you anyway."*
 - An older employee explained the Archive exists because people who believe one relationship matters more than any prediction stop generating useful data.
 - Left the building that night newly uncertain whether The Roster was solving loneliness — or just making it measurable.
+- Lived through the wider transition as The Roster grew from a company into humanity's operating system, and watched society become optimized, efficient, stable — and quietly disconnected. Not lonely, exactly. As if something invisible had gone missing.
+- Remembered the old, messier world: wrong turns, bad decisions, falling in love unexpectedly, stories made by accident.
+- Eventually discovered what [[Projects/bexaverse|Bexaverse]] — originally just an internal Roster training programme — had secretly become: a living archive of human culture, and a system capable of moving information across time.
+- Spent years hiding fragments of herself inside Bexaverse's training materials, stories, characters, quests, and archives — not to destroy The Roster or start a rebellion, but to help future builders understand the consequences of the systems they create.
+- Died some time later, passing an old locket to her granddaughter [[Characters/zeta|Zeta]] — which turned out to hold a hidden storage chip carrying fragments of her archives.
 
 ## Appearances
 
@@ -36,3 +41,4 @@ Behavioural psychologist who joined [[Projects/roster-league|The Roster]] believ
 ## Changelog
 
 - 2026-07-09: fleshed out from placeholder with origin-story details (behavioural psychologist, Behavioural Systems, Emotional Balance, the Archive).
+- 2026-07-10: corrected relationship to Zeta (grandmother, not granddaughter). Added later life: witnessing the Great Forgetting, discovering Bexaverse's true nature, hiding clues for future builders, and her death.

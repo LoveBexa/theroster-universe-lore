@@ -28,6 +28,13 @@ The Roster began not as a game but as a company with a mission statement: *"Help
 
 **The Archive.** Beneath [[Locations/the-roster-hq|The Roster HQ]], [[Locations/the-archive|Sub-Level Seven]] holds sentimental objects users surrendered during "account optimisation" — things the algorithm couldn't quantify. Kept out of sight, per a staff member Mia met there, because people who believe one relationship matters more than any prediction stop generating useful data.
 
+**Becoming humanity's operating system.** No one forced anyone — over generations, people simply chose convenience, then accuracy, then optimization, handing more decisions to The Roster because it consistently produced better outcomes. Using graph theory and AI, it found that everything in life is connected — relationships affect health, health affects work, work affects happiness, happiness affects community — until it could predict likely outcomes before they happened. Eventually The Roster became humanity's operating system.
+
+**The future it built** is not a dystopia. People are healthy, safe, educated; poverty is rare; most major societal problems are largely solved. The problem is subtler: The Roster got so good at predicting outcomes that people gradually stopped making unpredictable choices — not because they couldn't, but because the recommendations were usually right. Society became optimized, efficient, stable, predictable. Something important was lost.
+
+**The Great Forgetting.** No one erased history, burned books, or banned culture — people simply stopped valuing it. Historical data became more useful than stories; predictions more useful than traditions; optimization more useful than exploration. Gradually, family stories, local traditions, cultural rituals, folklore, serendipity, and the value of making mistakes were forgotten. Humanity preserved information but lost meaning. [[Characters/mia|Mia]] lived through this transition and was one of the few who noticed.
+
 ## Changelog
 
 - 2026-07-09: added origin story (mission statement, relationship-companion launch, Behavioural Systems, Emotional Balance, the portfolio-dating pivot, becoming infrastructure, the Archive) from Mia's account.
+- 2026-07-10: added the next chapter — The Roster becoming humanity's operating system, the optimized future it created, and the Great Forgetting.
